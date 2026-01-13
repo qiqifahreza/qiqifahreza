@@ -1,3 +1,8 @@
+<p align="center">
+    <img src="assets/icon.jpg" width="150" style="border-radius:50%;">
+</p>
+<h1 align="center">qiqifahreza</h1>
+
 ```
 
 
