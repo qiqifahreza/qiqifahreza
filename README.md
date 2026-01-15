@@ -3,7 +3,7 @@
     <h1 align="center">qiqifahreza</h1>
     <h6 align="center">Coming without the spotlight</h6>
     <h6 align="center">Going home with change</h6>
-P   <h6 align="center">roof speaks louder than words</h6>
+    <h6 align="center">roof speaks louder than words</h6>
 </p>
 <p align="center">
   <a href="https://github.com/qiqifahreza">
