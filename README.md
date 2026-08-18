@@ -1,3 +1,7 @@
+
+[![GitHub Stats](https://ghstats.dev/api/card?username=qiqifahreza&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/qiqifahreza)
+
+
 <p align="center">
     <img src="https://github.com/qiqifahreza.png" width="150" style="border-radius:50%;" />
     <h1 align="center">qiqifahreza</h1>
