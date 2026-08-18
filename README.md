@@ -1,9 +1,7 @@
 <p align="center">
     <img src="https://github.com/qiqifahreza.png" width="150" style="border-radius:50%;" />
-    <h1 align="center">qiqifahreza</h1>
-    <h6 align="center">Coming without the spotlight</h6>
-    <h6 align="center">Going home with change</h6>
-    <h6 align="center">roof speaks louder than words</h6>
+    <br />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=000000&center=true&vcenter=true&width=435&lines=hello;i+am+qiqifahreza" alt="qiqifahreza" />
 </p>
 <p align="center">
   <a href="https://github.com/qiqifahreza">
@@ -16,30 +14,3 @@
 </p>
 
 [![GitHub Stats](https://ghstats.dev/api/card?username=qiqifahreza&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/qiqifahreza)
-
-```
-
-
- $$$$$$\  $$\           $$\                                      
-$$  __$$\ \__|          \__|                                     
-$$ /  $$ |$$\  $$$$$$\  $$\                                      
-$$ |  $$ |$$ |$$  __$$\ $$ |                                     
-$$ |  $$ |$$ |$$ /  $$ |$$ |                                     
-$$ $$\$$ |$$ |$$ |  $$ |$$ |                                     
-\$$$$$$ / $$ |\$$$$$$$ |$$ |                                     
- \___$$$\ \__| \____$$ |\__|                                     
-     \___|          $$ |                                         
-                    $$ |                                         
-                    \__|                                         
-$$$$$$$$\       $$\                                              
-$$  _____|      $$ |                                             
-$$ |   $$$$$$\  $$$$$$$\   $$$$$$\   $$$$$$\  $$$$$$$$\ $$$$$$\  
-$$$$$\ \____$$\ $$  __$$\ $$  __$$\ $$  __$$\ \____$$  |\____$$\ 
-$$  __|$$$$$$$ |$$ |  $$ |$$ |  \__|$$$$$$$$ |  $$$$ _/ $$$$$$$ |
-$$ |  $$  __$$ |$$ |  $$ |$$ |      $$   ____| $$  _/  $$  __$$ |
-$$ |  \$$$$$$$ |$$ |  $$ |$$ |      \$$$$$$$\ $$$$$$$$\\$$$$$$$ |
-\__|   \_______|\__|  \__|\__|       \_______|\________|\_______|
-                                                                 
-                                                                 
-                                                                 
-```
