@@ -1,7 +1,3 @@
-
-[![GitHub Stats](https://ghstats.dev/api/card?username=qiqifahreza&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/qiqifahreza)
-
-
 <p align="center">
     <img src="https://github.com/qiqifahreza.png" width="150" style="border-radius:50%;" />
     <h1 align="center">qiqifahreza</h1>
@@ -17,13 +13,9 @@
   <a href="https://www.instagram.com/_dheayissmm?igsh=dmQ4NnJ6OXJ4N2px">
     <img src="https://img.shields.io/badge/Instagram-_dheayissmm-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://www.tiktok.com/@llunariass?_r=1&_t=ZS-932eTWdWKjk">
-    <img src="https://img.shields.io/badge/TikTok-llunariass-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
 </p>
-<h1 align="center">_______________________________________________________________</h1>
 
+[![GitHub Stats](https://ghstats.dev/api/card?username=qiqifahreza&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/qiqifahreza)
 
 ```
 
