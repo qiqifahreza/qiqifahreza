@@ -238,7 +238,7 @@ height: '100%',
   letterSpacing: '-1px',
   lineHeight: 1,
 }}>
-  {github?.user?.name || github?.user?.login || 'qiqifahreza'}
+ {(github?.user?.name || 'RifkyAlFahreza') + ' | ' + (github?.user?.login || 'qiqifahreza')}
 </div>
 
 <div style={{
