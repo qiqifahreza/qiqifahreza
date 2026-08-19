@@ -253,7 +253,7 @@ height: '100%',
 
 <div style={{
   display: 'flex',
-  gap: 8,
+  gap: 6,
   marginTop: 6,
   flexWrap: 'wrap',
 }}>
@@ -282,13 +282,13 @@ height: '100%',
         style={{
           display: 'flex',
           alignItems: 'center',
-          gap: 6,
-          padding: '4px 10px',
+          gap: 4,
+          padding: '3px 7px',
           borderRadius: 20,
           background: 'rgba(80,40,220,0.18)',
           border: '1px solid rgba(100,70,240,0.32)',
           color: 'rgba(205,195,255,0.85)',
-          fontSize: 12,
+          fontSize: 11,
           fontWeight: 600,
           whiteSpace: 'nowrap',
         }}
@@ -296,8 +296,8 @@ height: '100%',
 
         <img
           src={lang.icon}
-          width={14}
-          height={14}
+          width={13}
+          height={13}
           style={{
             display: 'block',
             flexShrink: 0,
