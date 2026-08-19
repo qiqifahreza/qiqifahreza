@@ -1,4 +1,4 @@
-```aura width=860 height=200 link="https://github.com/qiqifahreza"
+```aura width=495 height=195 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
   height: '100%',
@@ -238,7 +238,7 @@ height: '100%',
   letterSpacing: '-1px',
   lineHeight: 1,
 }}>
- {(github?.user?.name || 'RifkyAlFahreza') + ' | ' + (github?.user?.login || 'qiqifahreza')}
+ {(github?.user?.login || 'qiqifahreza')}
 </div>
 
 <div style={{
