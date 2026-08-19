@@ -115,19 +115,19 @@
       {[
         { 
           name: 'Python', 
-          icon: <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ marginRight: 6 }}><path d="M11.927 0C5.6 0 5.96 2.756 5.96 2.756v2.855H12v.852H3.593S0 6.046 0 12.332c0 6.284 3.125 6.068 3.125 6.068h1.862v-2.625s-.103-3.125 3.072-3.125h5.132s2.969.048 2.969-2.88V3.125S16.586 0 11.927 0zm-2.4 1.836a.918.918 0 1 1 0 1.836.918.918 0 0 1 0-1.836zM12.073 24c6.327 0 5.967-2.756 5.967-2.756v-2.855H12v-.852h8.407S24 17.954 24 11.668c0-6.284-3.125-6.068-3.125-6.068h-1.862v2.625s.103 3.125-3.072 3.125h-5.132s-2.969-.048-2.969 2.88v6.721S7.414 24 12.073 24zm2.4-1.836a.918.918 0 1 1 0-1.836.918.918 0 0 1 0 1.836z"/></svg> 
+          icon: 'https://cdn.simpleicons.org/python/3776AB' 
         },
         { 
           name: 'Jupyter', 
-          icon: <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ marginRight: 6 }}><path d="M12 4.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5zM4 12a2 2 0 1 0 0 4 2 2 0 0 0 0-4zm16 0a2 2 0 1 0 0 4 2 2 0 0 0 0-4zM12 14.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5z"/></svg> 
+          icon: 'https://cdn.simpleicons.org/jupyter/F37626' 
         },
         { 
           name: 'Java', 
-          icon: <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ marginRight: 6 }}><path d="M4.5 18.5c0 0 2.5 1 5.5 1s6.5-1.5 6.5-1.5-1.5.5-3.5.5-5-1-8.5 0zm1.5 2.5c0 0 3 1.5 6.5 1.5s5.5-.5 5.5-.5-2 .5-4.5.5-5.5-1.5-7.5-1.5zm11.5-12c0 0 1-1-1-2.5s-4-1.5-6-1.5-4 .5-5 1.5 0 2.5 0 2.5 1.5-1 4-1 6 1 8 1z"/></svg> 
+          icon: 'https://cdn.simpleicons.org/openjdk/ED8B00' 
         },
         { 
           name: 'Shell', 
-          icon: <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor" style={{ marginRight: 6 }}><path d="M2.25 4.5A2.25 2.25 0 0 0 0 6.75v10.5A2.25 2.25 0 0 0 2.25 19.5h19.5A2.25 2.25 0 0 0 24 17.25V6.75A2.25 2.25 0 0 0 21.75 4.5H2.25zm2.47 3.97a.75.75 0 0 1 1.06 0l3.5 3.5a.75.75 0 0 1 0 1.06l-3.5 3.5a.75.75 0 1 1-1.06-1.06L7.69 12 4.72 9.03a.75.75 0 0 1 0-1.06zm6.03 6.78a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75z"/></svg> 
+          icon: 'https://cdn.simpleicons.org/gnubash/4EAA25' 
         }
       ].map(function(item, i) {
         return (
@@ -136,7 +136,7 @@
             background:'rgba(80,40,220,0.18)', border:'1px solid rgba(100,70,240,0.32)',
             color:'rgba(205,195,255,0.85)', fontSize:12, fontWeight:600,
           }}>
-            {item.icon}
+            <img src={item.icon} width="14" height="14" style={{ marginRight: 6 }} />
             {item.name}
           </div>
         );
