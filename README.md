@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://github.com/qiqifahreza.png" width="150" style="border-radius:50%;" />
     <br />
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=000000&center=true&vcenter=true&width=435&lines=hello;i+am+qiqifahreza" alt="qiqifahreza" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vcenter=true&width=435&lines=hello;i+am+qiqifahreza" alt="qiqifahreza" />
 </p>
 <p align="center">
   <a href="https://github.com/qiqifahreza">
@@ -13,4 +13,8 @@
   </a>
 </p>
 
-[![GitHub Stats](https://ghstats.dev/api/card?username=qiqifahreza&theme=catppuccin&hide=trend%2Cavg%2Cactive_day%2Cgrade%2Ccontributions%2Crepos%2Cfollowers&custom_title=Stats&border_radius=10)](https://github.com/qiqifahreza)
+<p align="center">
+  <a href="https://github.com/qiqifahreza">
+    <img src="https://ghstats.dev/api/card?username=qiqifahreza&theme=ayu&custom_title=Stats&hide=stars,issues,followers,prs,grade" />
+  </a>
+</p>
