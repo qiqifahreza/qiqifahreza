@@ -1,3 +1,12 @@
+<div align="center">
+
+<img class="pp" src="https://avatars.githubusercontent.com/u/156492712?v=4" width="150">
+
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com/?lines=Hello;I'am+qiqifahreza;Thank+you+for+visiting&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 ```aura width=495 height=195 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
@@ -316,3 +325,7 @@ height: '100%',
 </div>
 </div>
 ```
+
+![GitHub Stats Card](https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=15&custom_title=Stats&layout=donut_vertical)
+
+</div>

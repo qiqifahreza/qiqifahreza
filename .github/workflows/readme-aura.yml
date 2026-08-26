@@ -4,8 +4,8 @@ on:
   push:
     branches: [main]
     paths: ['readme.source.md']
-#  schedule:
-#    - cron: '0 6 * * *'
+  schedule:
+    - cron: '30 2 * * *'
   workflow_dispatch:
 
 permissions:
