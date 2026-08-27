@@ -10,7 +10,7 @@
     <th colspan="2" align"center">
 
       
-```aura width=860 height=170 link="https://github.com/qiqifahreza"
+```aura width=820 height=170 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
   height: '100%',
