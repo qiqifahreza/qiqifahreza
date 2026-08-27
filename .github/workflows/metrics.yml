@@ -2,7 +2,7 @@ name: Generate GitHub Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Jalan otomatis setiap jam 12 malam
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -17,9 +17,13 @@ jobs:
       - name: Generate Languages Metrics
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
           filename: metrics.plugin.languages.svg
           base: ""
+          
+          # Targetkan push ke branch lang
+          output_action: push
+          output_action_branch: lang
           
           # Setup Plugin Languages
           plugin_languages: yes
