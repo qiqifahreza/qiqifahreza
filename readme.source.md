@@ -334,10 +334,10 @@ height: '100%',
   <table>
   <tr>
     <td align="center">
-      <img width ="320" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
+      <img width ="350" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
     </td>
     <td align="center">
-      <img width="450" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
+      <img width="470" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
     </td>
   </tr>
 </table>
