@@ -10,11 +10,11 @@
   <tr>
     <td align="center">
       
-```aura width=845 height=195 link="https://github.com/qiqifahreza"
+```aura width=495 height=195 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
   height: '100%',
-  background: '#070718eb',
+  background: '#08080c',
   display: 'flex',
   alignItems: 'center',
   fontFamily: 'Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif',
@@ -126,7 +126,7 @@ height: '100%',
 >
 <defs>
   <radialGradient id="g1" cx="50%" cy="50%" r="50%">
-    <stop offset="0%" stopColor="rgba(210, 207, 20, 0.97)" />
+    <stop offset="0%" stopColor="rgba(110,20,210,0.72)" />
     <stop offset="40%" stopColor="rgba(90,15,180,0.35)" />
     <stop offset="70%" stopColor="rgba(90,15,180,0)" />
   </radialGradient>
@@ -241,7 +241,7 @@ height: '100%',
   fill="url(#g8)"
 />
 
-</svg> <div style={{ position: 'absolute', left: 200, top: 52, width: 96, height: 96, borderRadius: 48, background: 'linear-gradient(135deg, #b66a19, #0088ff)', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 0 28px rgba(24, 125, 150, 0.28)', }}> <img src={github?.user?.avatarUrl || 'https://github.com/qiqifahreza.png'} width={88} height={88} style={{ borderRadius: 44, display: 'block', }} /> </div> <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 350, gap: 8, zIndex: 10, }}>
+</svg> <div style={{ position: 'absolute', left: 48, top: 52, width: 96, height: 96, borderRadius: 48, background: 'linear-gradient(135deg, #6622ee, #0088ff)', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 0 28px rgba(100,50,255,0.28)', }}> <img src={github?.user?.avatarUrl || 'https://github.com/qiqifahreza.png'} width={88} height={88} style={{ borderRadius: 44, display: 'block', }} /> </div> <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 168, gap: 8, zIndex: 10, }}>
 <div style={{
   display: 'flex',
   fontSize: 38,
@@ -266,7 +266,7 @@ height: '100%',
 <div style={{
   display: 'flex',
   gap: 6,
-  marginTop: 10,
+  marginTop: 6,
   flexWrap: 'wrap',
 }}>
 
@@ -296,7 +296,7 @@ height: '100%',
           alignItems: 'center',
           gap: 4,
           padding: '3px 7px',
-          borderRadius: 10,
+          borderRadius: 20,
           background: 'rgba(80,40,220,0.18)',
           border: '1px solid rgba(100,70,240,0.32)',
           color: 'rgba(205,195,255,0.85)',
@@ -334,8 +334,8 @@ height: '100%',
 
   <tr>
     <td align="center">
-      <img width ="345" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
-  <img src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
+      <img width ="205" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
+  <img width="285" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
     </td>
   </tr>
 </table>
