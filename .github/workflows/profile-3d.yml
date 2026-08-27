@@ -2,11 +2,11 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule:
-    - cron: "0 18 * * *" # Jalan jam 3 pagi JST / 1 malam WIB
+    - cron: "0 18 * * *"
   workflow_dispatch:
   push:
     branches:
-      - lang
+      - main
 
 permissions:
   contents: write
@@ -22,10 +22,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push 3D SVGs to profile-3d branch
+      - name: Push 3D SVGs to lang branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: profile-3d
+          target_branch: lang
           build_dir: profile-3d-contrib
+          keep_files: false # Menimpa seluruh isi branch lang dengan file 3D baru
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
