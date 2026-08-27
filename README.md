@@ -10,4 +10,8 @@
 
 ![GitHub Stats Card](https://ghstats.dev/api/card?username=qiqifahreza\&theme=midnight\&hide=stars,issues,followers,prs,streak,trend,active_day,grade\&border_radius=15\&custom_title=Stats\&layout=donut_vertical)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
+</p>
+
 </div>
