@@ -1,12 +1,16 @@
 <div align="center">
 
-<img class="pp" src="https://avatars.githubusercontent.com/u/156492712?v=4" width="150">
+<img src="https://avatars.githubusercontent.com/u/156492712?v=4" width="150">
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?lines=Hello;I'am+qiqifahreza;Thank+you+for+visiting&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hello;I'am+qiqifahreza;Thank+you+for+visiting&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
+<table>
+  <tr>
+    <th colspan="2" align"center">
+
       
-```aura width=495 height=195 link="https://github.com/qiqifahreza"
+```aura width=860 height=170 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
   height: '100%',
@@ -324,8 +328,17 @@ height: '100%',
 </div>
 </div>
 ```
-
-  <img width ="205" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
-  <img width="285" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
-  
+  </th>
+  </tr>
+  </table>
+  <table>
+  <tr>
+    <td align="center">
+      <img width ="300" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
+    </td>
+    <td align="center">
+      <img width="430" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
+    </td>
+  </tr>
+</table>
 </div>
