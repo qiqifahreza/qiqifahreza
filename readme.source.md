@@ -1,15 +1,5 @@
-<div align="center">
+<div align="center"><table><tr><td align="center"><img src="https://avatars.githubusercontent.com/u/156492712?v=4" width="150"><p align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Hello;I'am+qiqifahreza;Thank+you+for+visiting&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG"></p><table><tr><td colspan="2" align"center">
 
-<img src="https://avatars.githubusercontent.com/u/156492712?v=4" width="150">
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello;I'am+qiqifahreza;Thank+you+for+visiting&font=Fira%20Code&center=true&width=380&height=70&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
-</p>
-<table>
-  <tr>
-    <th colspan="2" align"center">
-
-      
 ```aura width=820 height=170 link="https://github.com/qiqifahreza"
 <div style={{
   width: '100%',
@@ -123,12 +113,14 @@ left: 0,
 width: '100%',
 height: '100%',
 }}
->
-<defs>
-  <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+
+> <defs>
+>   <radialGradient id="g1" cx="50%" cy="50%" r="50%">
+
     <stop offset="0%" stopColor="rgba(110,20,210,0.72)" />
     <stop offset="40%" stopColor="rgba(90,15,180,0.35)" />
     <stop offset="70%" stopColor="rgba(90,15,180,0)" />
+
   </radialGradient>
 
   <radialGradient id="g2" cx="50%" cy="50%" r="50%">
@@ -242,6 +234,7 @@ height: '100%',
 />
 
 </svg> <div style={{ position: 'absolute', left: 48, top: 52, width: 96, height: 96, borderRadius: 48, background: 'linear-gradient(135deg, #6622ee, #0088ff)', display: 'flex', alignItems: 'center', justifyContent: 'center', boxShadow: '0 0 28px rgba(100,50,255,0.28)', }}> <img src={github?.user?.avatarUrl || 'https://github.com/qiqifahreza.png'} width={88} height={88} style={{ borderRadius: 44, display: 'block', }} /> </div> <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 168, gap: 8, zIndex: 10, }}>
+
 <div style={{
   display: 'flex',
   fontSize: 38,
@@ -270,28 +263,29 @@ height: '100%',
   flexWrap: 'wrap',
 }}>
 
-  {[
-    {
-      name: 'Python',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'
-    },
-    {
-      name: 'Jupyter',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg'
-    },
-    {
-      name: 'Java',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'
-    },
-    {
-      name: 'Shell',
-      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'
-    }
-  ].map(function(lang, i) {
-        return (
-      <div
-        key={lang.name + '-' + i}
-        style={{
+{[
+{
+name: 'Python',
+icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg'
+},
+{
+name: 'Jupyter',
+icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg'
+},
+{
+name: 'Java',
+icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'
+},
+{
+name: 'Shell',
+icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg'
+}
+].map(function(lang, i) {
+return (
+
+<div
+key={lang.name + '-' + i}
+style={{
           display: 'flex',
           alignItems: 'center',
           gap: 4,
@@ -303,8 +297,7 @@ height: '100%',
           fontSize: 11,
           fontWeight: 600,
           whiteSpace: 'nowrap',
-        }}
-      >
+        }} >
 
         <img
           src={lang.icon}
@@ -321,24 +314,12 @@ height: '100%',
       </div>
     );
 
-  })}
+})}
 
 </div>
 
 </div>
 </div>
 ```
-  </th>
-  </tr>
-  </table>
-  <table>
-  <tr>
-    <td align="center">
-      <img width ="350" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" />
-    </td>
-    <td align="center">
-      <img width="470" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/>
-    </td>
-  </tr>
-</table>
-</div>
+
+</td></tr></table><table><tr><td align="center"><img width ="350" src="https://raw.githubusercontent.com/qiqifahreza/qiqifahreza/lang/profile-night-rainbow.svg" alt="3D Contribution Graph Rainbow" /></td><td align="center"><img width="470" src="https://ghstats.dev/api/card?username=qiqifahreza&theme=midnight&hide=stars,issues,followers,prs,streak,trend,active_day,grade&border_radius=0&custom_title=Stats&layout=donut_vertical" alt="Github Stats Card"/></td></tr></table></td></tr></table></div>
